@@ -6,7 +6,7 @@ public class Q3_11 {
 		switch (b) {
 		case 10 : System.out.println("case10");			
 		case 100 : System.out.println("case100");			
-//		case 200 : System.out.println("case200");			
+		case 200 : System.out.println("case200");			
 		}
 	}
 }

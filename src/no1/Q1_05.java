@@ -1,6 +1,6 @@
 package no1;
 
-public class Q1_5 {
+public class Q1_05 {
 
 	public static void main(String[] args) {
 		float f = 3.14f;
