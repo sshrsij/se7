@@ -1,6 +1,6 @@
 package no3;
 
-public class Q3_03 {
+class Q3_03 {
 
 	public static void main(String[] args) {
 		int i = 5;

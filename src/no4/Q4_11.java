@@ -1,6 +1,6 @@
 package no4;
 
-public class Q4_11 {
+ class Q4_11 {
 
 	public static void main(String[] args) {
 		String[] cards ={"spade","heart","club","diamond"};

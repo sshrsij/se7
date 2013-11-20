@@ -1,6 +1,6 @@
 package no4;
 
-public class Q4_06 {
+ class Q4_06 {
 
 	public static void main(String[] args) {
 		int[] myArray = new int[3];

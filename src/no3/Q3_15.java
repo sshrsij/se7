@@ -1,6 +1,6 @@
 package no3;
 
-public class Q3_15 {
+class Q3_15 {
 
 	public static void main(String[] args) {
 		StringBuilder str = new StringBuilder("0123 456 ");

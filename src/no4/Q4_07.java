@@ -1,6 +1,6 @@
 package no4;
 
-public class Q4_07 {
+ class Q4_07 {
 
 	public static void main(String[] args) {
 		for (int i = 0; i < 3; i++) {

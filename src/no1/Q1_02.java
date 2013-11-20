@@ -1,6 +1,6 @@
 package no1;
 
-public class Q1_02 {
+ class Q1_02 {
 
 	char my_char = 'c';
 	char your_char ='int';

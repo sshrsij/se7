@@ -1,6 +1,6 @@
 package no4;
 
-public class Q4_05 {
+ class Q4_05 {
 	public static void main(String[] args) {
 		String[] arrays = { "xxx", "yyy", "zzz" };
 		for (String s : arrays)	System.out.println(s);// F

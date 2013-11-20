@@ -1,6 +1,6 @@
 package no2;
 
-public class Q2_09 {
+class Q2_09 {
 	public static void main(String[] args) {
 		 int val1 =args[0];/*ここでコンパイルエラー*/
 		 int val2 =args[1];

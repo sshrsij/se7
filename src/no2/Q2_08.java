@@ -2,7 +2,7 @@ package no2;
 
 import java.util.*;
 
-public class Q2_08 {
+ class Q2_08 {
 	public static void main(String[] args) {
 		Integer i1 = new Integer(1);
 		Integer i2 = new Integer(2);

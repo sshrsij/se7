@@ -1,6 +1,6 @@
 package no3;
 
-public class Q3_06 {
+ class Q3_06 {
 	public static void main(String[] args) {
 		boolean b1 = false, b2 = false;
 		int i = 12, j = 11;

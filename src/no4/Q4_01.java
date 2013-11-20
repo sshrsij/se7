@@ -1,6 +1,6 @@
 package no4;
 
-public class Q4_01 {
+ class Q4_01 {
 
 	public static void main(String[] args) {
 		int[5] ary = { 1, 2, 3, 4, 5 };// compileError

@@ -1,6 +1,6 @@
 package no4;
 
-public class Q4_02 {
+ class Q4_02 {
 	public static void main(String[] args) {
 		int i = 0, j = 20;
 		while (i) {

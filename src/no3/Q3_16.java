@@ -1,6 +1,6 @@
 package no3;
 
-public class Q3_16 {
+class Q3_16 {
 
 	public static void main(String[] args) {
 		String str = "12345";

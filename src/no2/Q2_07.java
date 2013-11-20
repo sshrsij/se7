@@ -1,7 +1,7 @@
 package no2;
 
 import java.util.*;
-public class Q2_07 {
+ class Q2_07 {
 
 	public static void main(String[] args) {
 		ArrayList<Double> list =new ArrayList<Double>();

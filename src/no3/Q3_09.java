@@ -1,6 +1,6 @@
 package no3;
 
-public class Q3_09 {
+ class Q3_09 {
 
 	public static void main(String[] args) {
 		char[] o1 = { 'x', 'y', 'z' };

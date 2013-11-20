@@ -1,6 +1,6 @@
 package no3;
 
-public class Q3_13 {
+ class Q3_13 {
 
 	public static void main(String[] args) {
 		String dept ="sales";

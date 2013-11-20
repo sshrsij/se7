@@ -1,6 +1,6 @@
 package no3;
 
-public class Q3_10 {
+ class Q3_10 {
 
 	public static void main(String[] args) {
 		boolean x = true;

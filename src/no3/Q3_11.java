@@ -1,6 +1,6 @@
 package no3;
 
-public class Q3_11 {
+ class Q3_11 {
 	public static void main(String[] args) {
 		byte b = 100;
 		switch (b) {

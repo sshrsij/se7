@@ -1,6 +1,6 @@
 package no1;
 
-public class Q1_03 {
+ class Q1_03 {
 	public static void main(String[] args) {
 		Object java;
 		Object goto;

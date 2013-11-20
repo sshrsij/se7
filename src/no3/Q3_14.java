@@ -1,6 +1,6 @@
 package no3;
 
-public class Q3_14 {
+ class Q3_14 {
 
 	public static void main(String[] args) {
 		Integer val = 100;

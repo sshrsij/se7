@@ -1,6 +1,6 @@
 package no2;
 
-public class Q2_03 {
+ class Q2_03 {
 
 	public static void main(String[] args) {
 		int[] a = new int[5];

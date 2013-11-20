@@ -1,6 +1,6 @@
 package no3;
 
-public class Q3_12 {
+ class Q3_12 {
 	public static void main(String[] args) {
 		long i =2;
 		switch (i) {

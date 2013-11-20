@@ -1,7 +1,6 @@
 package no2;
 
-public class Q2_10 {
-
+ class Q2_10 {
 	public static void main(String[] args) {
 		String[] ary = new String[3];
 		ary[1] = args[0];
